@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: CONFIGSERVER-PROD
 eureka:
   client:
     instance:
