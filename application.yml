@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: CONFIGSERVER
 eureka:
   client:
     instance:
